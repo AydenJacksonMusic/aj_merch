@@ -1,5 +1,5 @@
 const MAILING_LIST_API = 'https://api.staging.fourthwall.com/api/mailing-list';
-const SHOP_ID_KEY = 'sh_9f57832f-456b-44f3-888f-8a370b155a18';
+const SHOP_ID_KEY = 'sh_1c4df5d4-13a6-4ee6-a596-affa21f5c2ee';
 
 const ApiModule = (function ApiModule() {
   function postEmail(email) {
